@@ -1,2 +1,2 @@
 # Data_centric_data_science
-This was part of a talk sor Spain AI webinars group
+En este repositorio se incluye parte de lo presentado en una charla para el grupo Spain AI(https://www.spain-ai.com/) 
