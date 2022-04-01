@@ -5,6 +5,9 @@ En este repositorio se incluye parte de lo presentado en una charla para el grup
 
 * exposición de una realidad presente en gran parte de los proyectos reales de ciencia de datos, en cuanto al estado de los datos a analizar y modelar
 * relevancia de considerar la calidad del dato como una línea central en el negocio de las empresas y algunos estudios sobre este tema
+
+![image](https://user-images.githubusercontent.com/32896503/161294681-232fc153-e46f-4c01-bc5c-dc6c23da6bef.png)
+
 * cualidades que definen una buena calidad de datos
 * fases de evaluación de datos en un proyecto real
 * ejemplos de problemas que se pueden encontrar relacionados con la calidad del dato
