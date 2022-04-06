@@ -24,4 +24,3 @@ En este repositorio se incluye parte de lo presentado en una charla para el grup
 ![image](https://user-images.githubusercontent.com/32896503/161296333-a154c987-4fd1-47e8-9d92-9b25f2e78bc8.png)
 
 * aportaciones que podemos realizar una vez los datos están curados, tanto basados en análisis "estáticos" como a partir de modelos de aprendizaje automáticos ya puestos en producción
-* conclusiones
